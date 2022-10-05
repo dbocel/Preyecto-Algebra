@@ -1,0 +1,14 @@
+C:\Proyecto_AlgebraLineal\Proyecto_Matrices\Proyecto_Matrices\bin\Debug\Proyecto_Matrices.exe.config
+C:\Proyecto_AlgebraLineal\Proyecto_Matrices\Proyecto_Matrices\bin\Debug\Proyecto_Matrices.exe
+C:\Proyecto_AlgebraLineal\Proyecto_Matrices\Proyecto_Matrices\bin\Debug\Proyecto_Matrices.pdb
+C:\Proyecto_AlgebraLineal\Proyecto_Matrices\Proyecto_Matrices\bin\Debug\Proyecto_Matrices.xml
+C:\Proyecto_AlgebraLineal\Proyecto_Matrices\Proyecto_Matrices\obj\Debug\Proyecto_Matrices.vbproj.AssemblyReference.cache
+C:\Proyecto_AlgebraLineal\Proyecto_Matrices\Proyecto_Matrices\obj\Debug\Proyecto_Matrices.vbproj.SuggestedBindingRedirects.cache
+C:\Proyecto_AlgebraLineal\Proyecto_Matrices\Proyecto_Matrices\obj\Debug\Proyecto_Matrices.Form1.resources
+C:\Proyecto_AlgebraLineal\Proyecto_Matrices\Proyecto_Matrices\obj\Debug\Proyecto_Matrices.Form2.resources
+C:\Proyecto_AlgebraLineal\Proyecto_Matrices\Proyecto_Matrices\obj\Debug\Proyecto_Matrices.Resources.resources
+C:\Proyecto_AlgebraLineal\Proyecto_Matrices\Proyecto_Matrices\obj\Debug\Proyecto_Matrices.vbproj.GenerateResource.cache
+C:\Proyecto_AlgebraLineal\Proyecto_Matrices\Proyecto_Matrices\obj\Debug\Proyecto_Matrices.vbproj.CoreCompileInputs.cache
+C:\Proyecto_AlgebraLineal\Proyecto_Matrices\Proyecto_Matrices\obj\Debug\Proyecto_Matrices.exe
+C:\Proyecto_AlgebraLineal\Proyecto_Matrices\Proyecto_Matrices\obj\Debug\Proyecto_Matrices.xml
+C:\Proyecto_AlgebraLineal\Proyecto_Matrices\Proyecto_Matrices\obj\Debug\Proyecto_Matrices.pdb
